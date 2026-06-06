@@ -40,7 +40,7 @@ This summer I'm joining the **Shenzhen Loop Area Institute (SLAI)** at CUHK Shen
 
 ### Education & Affiliations
 
-- **HSE University** — B.Sc. Applied Data Analysis, Faculty of Computer Science (2022–2026)
+- **HSE University** — B.Sc. Applied Data Analysis, Faculty of Computer Science (2023–2027)
 - **CUHK Shenzhen / SRIBD** — Incoming Research Intern (Summer 2026)
   - Lab: School of Life and Health Sciences AI Lab (SLAI)
   - Focus: Automatic speech analysis for dementia and cognitive impairment
