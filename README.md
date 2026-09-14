@@ -40,7 +40,7 @@ This summer I have joined the **Shenzhen Loop Area Institute (SLAI)** at CUHK Sh
 ### Education & Affiliations
 
 - **HSE University** — B.Sc. Applied Data Analysis, Faculty of Computer Science (2023–2027)
-- **CUHK Shenzhen / SRIBD** — Research Intern (Summer 2026)
+- **CUHK Shenzhen / SLAI** — Research Intern (Summer 2026)
   - Lab: Centre for Language and Machines
 
 ---
