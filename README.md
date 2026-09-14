@@ -1,8 +1,8 @@
 ## Hi, I'm Aleksandra Suvorova 👋
 
-I'm a 3rd-year undergraduate at **HSE University** (Faculty of Computer Science, Moscow), specialising in Applied Data Analysis. My research sits at the intersection of **deep learning and medicine** — I care about building models that are not only accurate but clinically meaningful.
+I'm a 4th-year undergraduate at **HSE University** (Faculty of Computer Science, Moscow), specialising in Data Analysis in Applied Research. My research sits at the intersection of **deep learning and medicine** — I care about building models that are not only accurate but clinically meaningful.
 
-This summer I'm joining the **Shenzhen Loop Area Institute (SLAI)** at CUHK Shenzhen as a research intern, working on **speech-based biomarkers for cognitive decline and dementia detection**.
+This summer I have joined the **Shenzhen Loop Area Institute (SLAI)** at CUHK Shenzhen as a research intern, working on **dysarthric speech**.
 
 ---
 
@@ -11,7 +11,6 @@ This summer I'm joining the **Shenzhen Loop Area Institute (SLAI)** at CUHK Shen
 - Speech & audio processing for clinical applications (dysarthria, dementia, atypical speech)
 - Medical AI — from signal to clinical decision support
 - Multimodal learning (audio + language + structured data)
-- Interpretable and robust deep learning
 
 ---
 
@@ -21,10 +20,7 @@ This summer I'm joining the **Shenzhen Loop Area Institute (SLAI)** at CUHK Shen
 `Python` · `C++` · `SQL`
 
 **ML / DL**
-`PyTorch` · `PyTorch Geometric` · `scikit-learn` · `HuggingFace Transformers` · `segmentation_models_pytorch` · `Captum` · `Albumentations` · `Optuna` · `librosa` · `torchaudio`
-
-**Data & Infra**
-`NumPy` · `Pandas` · `FAISS` · `MLflow` · `Jupyter` · `Git`
+`PyTorch` · `scikit-learn` · `HuggingFace Transformers` · `segmentation_models_pytorch` · `Captum` · `Albumentations` · `Optuna` · `librosa` · `torchaudio`
 
 ---
 
@@ -44,17 +40,8 @@ This summer I'm joining the **Shenzhen Loop Area Institute (SLAI)** at CUHK Shen
 ### Education & Affiliations
 
 - **HSE University** — B.Sc. Applied Data Analysis, Faculty of Computer Science (2023–2027)
-- **CUHK Shenzhen / SRIBD** — Incoming Research Intern (Summer 2026)
-  - Lab: School of Life and Health Sciences AI Lab (SLAI)
-  - Focus: Automatic speech analysis for dementia and cognitive impairment
-
----
-
-### Currently Learning / Exploring
-
-- Paralinguistic features in pathological speech (MFCCs, prosody, formants)
-- Self-supervised speech representations: wav2vec 2.0, HuBERT
-- Clinical NLP for medical records and discharge summaries
+- **CUHK Shenzhen / SRIBD** — Research Intern (Summer 2026)
+  - Lab: Centre for Language and Machines
 
 ---
 
